@@ -1,0 +1,6 @@
+GET http://example.com
+
+GET "https://pokeapi.co/api/v2/pokemon-form/20/"
+Content-Type: application/json
+
+some change 
